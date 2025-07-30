@@ -2,7 +2,6 @@
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Maintained](https://img.shields.io/badge/maintained-yes-success)
 ![Platform](https://img.shields.io/badge/platform-Proteus-blue)
 
 This repository contains media resources such as circuit diagrams, truth tables, and simulation GIFs for understanding **SR Latches**, including the **Basic**, **Gated**, and **Clocked** versions. These are foundational components in digital electronics, widely used in memory circuits and sequential logic.
